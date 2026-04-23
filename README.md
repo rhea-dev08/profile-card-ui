@@ -1,22 +1,19 @@
-# profile-card-ui
+# Profile Card UI
+
 This is my first project built using HTML and CSS.
 
 ## Features
--Clean profile card design
--Social media icons
--Buttons (Subscribe and Message)
--Simple and responsive layout( will improve)
+- Clean profile card design
+- Social media icons
+- Buttons (Subscribe & Message)
 
 ## Tech Used
--HTML
--CSS
+- HTML
+- CSS
 
-## Future Improvements
--Make it fully responsive
--Add JavaScript interactions
+## Learning Outcome
+- Understood basic layout and styling
+- Improved CSS design skills
 
 ## Author
-Rhea-Aspiring Web Developer
-
-
-
+Rhea – Aspiring Web Developer
