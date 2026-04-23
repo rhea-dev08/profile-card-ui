@@ -1,7 +1,7 @@
 # profile-card-ui
 This is my first project built using HTML and CSS.
 
-#Features
+##Features
 -Clean profile card design
 -Social media icons
 -Buttons (Subscribe and Message)
