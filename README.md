@@ -15,7 +15,7 @@ This is my first project built using HTML and CSS.
 -Make it fully responsive
 -Add JavaScript interactions
 
-##Author
+## Author
 Rhea-Aspiring Web Developer
 
 
